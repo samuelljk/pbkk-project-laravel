@@ -122,10 +122,9 @@
       <div class="footer">
         <div class="footer-content">
           <p class="footer-text">© 2023. Made by
-          <a href="https://github.com/nayottama11" target="_blank">@Giandra</a> ,
           <a href="https://github.com/samuelljk" target="_blank">@Samuel</a> ,
             and
-            <a href="https://github.com/" target="_blank">@Luthfi</a>.
+            <a href="https://github.com/samuelarthurr" target="_blank">@Arthur</a>.
             All rights reserved</p>
         </div>
       </div>
