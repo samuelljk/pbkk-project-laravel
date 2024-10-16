@@ -1,7 +1,7 @@
-| Name           | NRP        | Kelas     |
-| ---            | ---        | ----------|
-| Samuel Josefano Kaloh | 5025221065 | Jaringan Komputer (I) |
-| Muhammad Tharq Darobi | 5025231163 | Jaringan Komputer (I) |
+| Name           | NRP        |
+| ---            | ---        |
+| Samuel Josefano Kaloh | 5025221065 |
+| Samuel Arthur Gamalliel | 5025221109 |
 
 ## Overview
 A web application project for Hotel Reviews in which customers can create their own review with ratings, and comments.
